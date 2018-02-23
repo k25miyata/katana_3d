@@ -1,1 +1,3 @@
-クモ＿刀
+刀の3dモデル
+katana_kumoは鍔が未完成
+katana_kumo02は完成形
